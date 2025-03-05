@@ -1,6 +1,6 @@
 ---
 
-## title: "Image Processing with NumPy and OpenCV" description: "A simple image processing project that applies blurring, edge detection, and color inversion using NumPy and OpenCV."
+**Image Processing with NumPy and OpenCV description "A simple image processing project that applies blurring, edge detection, and color inversion using NumPy and OpenCV."**
 
 import Image from 'next/image';
 
